@@ -21,19 +21,24 @@ I chose Al Arabic Coffee because I believe it has strong potential but is curren
 * Content ideas designed to increase engagement
 * Recommendations for improving social media performance
 
-# Observations
+## Key Findings
 
-Some competitors maintain a stronger online presence through consistent posting, short-form video content, and interactive stories. Al Arabic Coffee already has a product that customers enjoy, but there are opportunities to communicate that value more effectively through social media.
+After reviewing Al Arabic Coffee and its competitors, several opportunities for growth were identified:
+
+- Competitors post more consistently
+- Reels receive higher engagement than static posts
+- Interactive stories are used more frequently by competitors
+- Trend-driven and Gen Z-focused content appears to attract more engagement
+- Al Arabic Coffee has strong products but lower online visibility
 
 # Recommendations
 
 Some ideas that could help improve engagement include:
 
 * Posting more consistently throughout the week
-* Creating reels that showcase drinks and the coffee-making process
+* Creating reels using Gen-Z humor, trending sounds 
 * Sharing customer experiences and reviews
 * Using polls, questions, and other interactive story features
-* Highlighting seasonal drinks and promotions
 
 # Skills Demonstrated
 
