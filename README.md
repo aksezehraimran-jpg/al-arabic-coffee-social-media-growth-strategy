@@ -53,3 +53,25 @@ Some ideas that could help improve engagement include:
 # Project Goal
 
 The goal of this project is not to criticize the business, but to explore practical ways its social media presence could be strengthened and to demonstrate my ability to analyze a brand and develop actionable recommendations.
+
+## Competitor Screenshots
+
+### Al Arabic Foods
+
+![Al Arabic Foods](screenshots/al-arabic-foods-instagram.png.jpeg)
+
+### Crème by SI
+
+![Crème by SI](screenshots/cremebysi-instagram.png.jpeg)
+
+### Esero
+
+![Esero](screenshots/esero-instagram.png.jpeg)
+
+### Mara's Coffee
+
+![Mara's Coffee](screenshots/mara's-coffee-instagram.png.jpeg)
+
+### Pop Up Food
+
+![Pop Up Food](screenshots/pop-up-food-instagram.png.jpeg)
